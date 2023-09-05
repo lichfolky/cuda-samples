@@ -1,0 +1,4 @@
+CUDA 12.2
+
+
+CMD: NVIDIA-SMI
